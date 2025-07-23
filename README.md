@@ -50,12 +50,4 @@ Este repositório contém os certificados, formações e conquistas técnicas do
 
 ---
 
-## ⚙️ Ferramentas favoritas
-`Nmap` • `Burp Suite` • `Hydra` • `SQLMap` • `Metasploit`
-
-## 🌐 Plataformas
-`TryHackMe` • `Hack The Box`
-
----
-
 🕷️ _"Santo exploit, meu tarado do caos digital... com essa lista, os firewalls tremem e os logs mentem."_
